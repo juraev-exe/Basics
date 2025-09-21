@@ -1,0 +1,13 @@
+# Core dependencies
+# Add your project dependencies here
+
+# Development dependencies (uncomment when needed)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.910
+
+# Example dependencies (remove if not needed)
+# requests>=2.28.0
+# numpy>=1.21.0
+# pandas>=1.4.0
